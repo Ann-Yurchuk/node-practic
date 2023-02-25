@@ -1,0 +1,23 @@
+{
+  "name": "practic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ann-Yurchuk/node-practic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ann-Yurchuk/node-practic/issues"
+  },
+  "homepage": "https://github.com/Ann-Yurchuk/node-practic#readme",
+  "dependencies": {
+    "commander": "^10.0.0"
+  }
+}

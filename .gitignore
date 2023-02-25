@@ -1,0 +1,6 @@
+node_modules/
+.env
+
+# /**/*.ts
+# src/**/*.ts
+# src/*.ts
